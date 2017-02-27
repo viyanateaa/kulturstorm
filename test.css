@@ -1,0 +1,10 @@
+div.intro{
+		/*position: relative;
+		margin: 200px;
+		left: 300px;
+		top: 300px;*/
+
+	display:inline;
+	overflow: auto;
+	height: 100%;
+}
